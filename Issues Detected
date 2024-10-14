@@ -1,0 +1,16 @@
+1. Data Types:
+In Orders.csv, the "Order Date" column is currently in object (string) format and should be converted 
+to a proper date format for any time-based analysis.
+# orders_df['Order Date'] = pd.to_datetime(orders_df['Order Date'], format='%d-%m-%Y')
+
+
+2. Outliers in Numeric Data (from Details.csv):
+- Amount: The minimum value of 4 and maximum value of 5729 appear normal, though there is a wide range.
+# low_amounts = details_df[details_df['Amount'] < 10]
+
+-Profit: There are negative values in the "Profit" column, which may indicate losses. However, some values seem extreme 
+(e.g., -1981), so these should be checked to determine if they are valid or errors.
+# extreme_profits = details_df[details_df['Profit'] < -1000]
+
+- Quantity: The range (1 to 14) seems reasonable, but further context is needed to verify that no extremely 
+low or high quantities are present.
