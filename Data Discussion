@@ -1,0 +1,16 @@
+- Orders.csv:
+
++ Order ID: Unique identifier for each order.
++ Order Date: The date the order was placed.
++ Customer Name: The name of the customer who placed the order.
++ State: The state where the customer resides.
++ City: The city where the customer resides.
++ Details.csv:
+
+- Order ID: Links this file to the Orders.csv file.
++ Amount: Total value of the order.
++ Profit: Profit earned from the order.
++ Quantity: Number of items in the order.
++ Category: The product category (e.g., Electronics, Furniture).
++ Sub-Category: A more specific description within the category (e.g., Electronic Games, Chairs).
++ PaymentMode: The mode of payment used for the transaction (e.g., COD, EMI, Credit Card).
