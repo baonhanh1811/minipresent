@@ -1,0 +1,5 @@
+# 1. Introduction
+# The data consists of two CSV files: Orders.csv and Details.csv.
+# Orders.csv contains basic information about customer orders, including order ID, order date, customer name, and location details (state and city).
+# Details.csv includes more detailed data related to each order, such as order ID, amount, profit, quantity, product category and sub-category, and payment method.
+# These data sets appear to track sales or order records, possibly from a retail or e-commerce platform, detailing the financial performance (amount and profit) of different product categories, along with the payment methods used for each transaction.
