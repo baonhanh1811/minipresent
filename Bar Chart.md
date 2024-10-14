@@ -7,5 +7,5 @@ The category with the highest sales is Electronics, followed by Furniture and Cl
 The manager can focus marketing efforts or stock more products in high-revenue categories like Electronics, 
 while possibly reevaluating investment in lower-revenue categories.
 
-![Bar Chart](https://github.com/baonhanh1811/minipresent/raw/main/image/bar.jpg)
+![Bar Chart](image/bar.jpg)
 
