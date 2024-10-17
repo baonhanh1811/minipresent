@@ -51,12 +51,14 @@ to a proper date format for any time-based analysis.
 + Significance: Helps identify seasonality and plan promotions for high-profit months.
 + Pattern: Profit spikes in certain months, indicating seasonality (e.g., holidays).
 + Importance: Allows managers to optimize strategies for profitable months and address low-profit periods.
+![Line Chart](image/line.jpg)
 
 - Pie Chart:
 + Explanation: The pie chart shows COD as the most used payment method, followed by EMI and Credit Card.
 + Significance: Helps optimize payment options and improve customer experience.
 + Pattern: COD is the dominant payment choice among customers.
 + Importance: Allows managers to enhance COD services or promote electronic payments to reduce costs and improve efficiency.
+![Pie Chart](image/pie.jpg)
 
 - Bar Chart:
 + Explanation: The bar chart shows total revenue by state, with higher bars indicating greater revenue.
