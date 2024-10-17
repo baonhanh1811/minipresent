@@ -60,8 +60,9 @@ to a proper date format for any time-based analysis.
 + Importance: Allows managers to enhance COD services or promote electronic payments to reduce costs and improve efficiency.
 ![Pie Chart](image/pie.jpg)
 
-- Bar Chart:
+- Bar Chart 2:
 + Explanation: The bar chart shows total revenue by state, with higher bars indicating greater revenue.
 + Significance: Helps identify top-performing states for adjusting business strategies and marketing efforts.
 + Pattern: Developed states like Delhi and Maharashtra generate more revenue due to higher purchasing power.
 + Importance: Enables leadership to focus on key markets and improve strategies in weaker regions for better profitability.
+![Bar Chart 2](image/bar2.jpg)
