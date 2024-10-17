@@ -38,5 +38,28 @@ to a proper date format for any time-based analysis.
 -Profit: There are negative values in the "Profit" column, which may indicate losses. However, some values seem extreme (e.g., -1981), so these should be checked to determine if they are valid or errors.
 # extreme_profits = details_df[details_df['Profit'] < -1000]
 
-- Quantity: The range (1 to 14) seems reasonable, but further context is needed to verify that no extremely 
-low or high quantities are present.
+4. Charts
+- Bar Chart:
++ Explanation: Electronics leads in sales, followed by Furniture and Clothing.
++ Significance: Helps allocate resources and plan inventory.
++ Pattern: Sales are uneven, with Electronics far ahead.
++ Importance: Managers can prioritize top-performing categories and reassess weaker ones.
+![Bar Chart](image/bar.jpg)
+
+- Line Chart:
++ Explanation: The line chart shows monthly profit fluctuations, with possible spikes during certain months.
++ Significance: Helps identify seasonality and plan promotions for high-profit months.
++ Pattern: Profit spikes in certain months, indicating seasonality (e.g., holidays).
++ Importance: Allows managers to optimize strategies for profitable months and address low-profit periods.
+
+- Pie Chart:
++ Explanation: The pie chart shows COD as the most used payment method, followed by EMI and Credit Card.
++ Significance: Helps optimize payment options and improve customer experience.
++ Pattern: COD is the dominant payment choice among customers.
++ Importance: Allows managers to enhance COD services or promote electronic payments to reduce costs and improve efficiency.
+
+- Bar Chart:
++ Explanation: The bar chart shows total revenue by state, with higher bars indicating greater revenue.
++ Significance: Helps identify top-performing states for adjusting business strategies and marketing efforts.
++ Pattern: Developed states like Delhi and Maharashtra generate more revenue due to higher purchasing power.
++ Importance: Enables leadership to focus on key markets and improve strategies in weaker regions for better profitability.
