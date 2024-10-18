@@ -1,6 +1,7 @@
 # Minipresentation
 # Group 1 
 1. Introduction
+
 The data consists of two CSV files: Orders.csv and Details.csv.
 
 Orders.csv contains basic information about customer orders, including order ID, order date, customer name, and location details (state and city).
