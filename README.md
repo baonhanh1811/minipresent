@@ -19,8 +19,8 @@ These data sets appear to track sales or order records, possibly from a retail o
 + State: The state where the customer resides.
 + City: The city where the customer resides.
   
-+ Details.csv:
-- Order ID: Links this file to the Orders.csv file.
+- Details.csv:
++ Order ID: Links this file to the Orders.csv file.
 + Amount: Total value of the order.
 + Profit: Profit earned from the order.
 + Quantity: Number of items in the order.
