@@ -2,8 +2,11 @@
 # Group 1 
 # Online Sales
 Subject: Introduction to Data Science
+
 Class: MAS02
+
 Lecturer: Dr. Emmanuel Lance Christopher VI M. Plan
+
 
 | Name              | Student ID   | 
 |-------------      |--------------|
