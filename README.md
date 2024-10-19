@@ -1,5 +1,18 @@
 # Minipresentation
 # Group 1 
+# Online Sales
+Subject: Introduction to Data Science
+Class: MAS02
+Lecturer: Dr. Emmanuel Lance Christopher VI M. Plan
+
+| Name              | Student ID   | 
+|-------------      |--------------|
+| Phạm Tô Bảo Anh   | 22080297     | 
+| Lương Khánh Linh  | 22080322     | 
+| Bùi Ánh Mai       | 2208025      | 
+| Nguyễn Thu Phương | 2080338      | 
+| Tạ Thu Phương     | 22080339     | 
+
 1. Introduction
 
 The data consists of two CSV files: Orders.csv and Details.csv.
